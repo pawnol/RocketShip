@@ -53,4 +53,5 @@ int main()
     bodyWithText();
     bodyWithoutText();
     cone();
+    return 0;
 }
